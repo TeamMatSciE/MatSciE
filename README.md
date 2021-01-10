@@ -2,6 +2,9 @@
 
 MatSciE is a tool for information extraction from material science scientific documents. Details of the models used in this paper can be found in this [paper](https://arxiv.org/pdf/2009.06819.pdf).
 
+## Dataset
+[This](https://drive.google.com/drive/folders/1SKhQtXA3fvNLYw-FbQ_Da2X1-VX-Q0oW?usp=sharing) is the dataset we used for training and testing our models.
+
 ## BiLSTM-ELMO-CRF
 The final model used in this paper is *Mimicking model* which is a BiLSTM-ELMO-CRF model. The code for this model can be found in the ```bilstm_elmo_crf``` directory. Detailed instruction to train and test the models are present inside the directory.
 
