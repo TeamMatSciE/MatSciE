@@ -1,7 +1,7 @@
 # MatScIE: Material science information extration tool
 
 MatSciE is a tool for information extraction from material science scientific documents. Details of the models used in this paper can be found in this [paper](https://arxiv.org/pdf/2009.06819.pdf). 
-The tool can be used [here](http://34.69.41.173:3333/)
+The tool can be used [here](http://34.69.41.173:3333/).
 
 ## Dataset
 [This](https://drive.google.com/drive/folders/1SKhQtXA3fvNLYw-FbQ_Da2X1-VX-Q0oW?usp=sharing) is the dataset we used for training and testing our models. 
